@@ -1,4 +1,4 @@
-# Face Recognition App for Engage'22
+# Face Recognition App
 
 A Face Recognition Android app project made in Android Studio.
 
