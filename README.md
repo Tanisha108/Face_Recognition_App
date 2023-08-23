@@ -2,6 +2,10 @@
 
 A Face Recognition Android app project made in Android Studio.
 
+## App Demo Video Link
+
+https://drive.google.com/file/d/1LmJm0SqXLXhGKaIN5SUZtjkwDM5z4Ocg/view?usp=sharing
+
 ## Tools and Tech Stack used
 - Android Studio (Java) - Android Studio is the official Integrated Development Environment (IDE) for Android app development, based on IntelliJ IDEA.
 - CameraX - CameraX is a Jetpack library, built to help make camera app development easier.
